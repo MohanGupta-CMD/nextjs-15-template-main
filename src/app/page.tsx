@@ -49,7 +49,16 @@ export default function Home() {
                 rel="noopener noreferrer"
                 className="inline-flex h-12 items-center justify-center rounded-full border border-[var(--border)] bg-[var(--card)] px-6 text-sm font-semibold text-[var(--foreground)] shadow-sm hover:bg-[var(--accent)] hover:text-[var(--accent-foreground)] transition-all duration-300 hover:scale-105 w-full sm:w-auto"
               >
-                View on GitHub                    
+                View on GitHub
+                1.Animations in react native and react both
+                2.Native IOS/Andorid 
+                3.XCode / Android Studio in details
+                4.Host Application on play and apple 
+                5.Make Few Application with some complex things and native modules
+                6.DSA
+                7.Testing Tools
+                8.System Design LLM,HLM
+                9.NodeJS PostSQL               
                 <Code className="ml-2 h-5 w-5" />
               </Link>
             </div>
